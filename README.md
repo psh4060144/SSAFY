@@ -47,7 +47,7 @@ backtick에 언어 이름을 적어주면 색칠도 해주고~~
 
 이미지 삽입을 하려면...
 
-![정말고마 워요.png](C:\Users\SSAFY\Desktop\정말고마%20워요.png)
+![image.png](C:\Users\SSAFY\Desktop\image.png)
 
 source code mode에서는 끌어넣기가 안되고, ctrl+E 눌러서 끌어넣기가 가능!
 근데, 이건 결국 경로 참조이기 때문에 다른 사람은 열람이 안 된다.
@@ -55,4 +55,7 @@ source code mode에서는 끌어넣기가 안되고, ctrl+E 눌러서 끌어넣�
 그럴 때, 위처럼 절대 경로참조를 하면 안 되고, 상대 경로참조를 해야한다~
 어떻게?
 
-![정말고마 워요.png](.\정말고마%20워요.png)
+![image.png](.\image.png)
+
+이렇게~
+
