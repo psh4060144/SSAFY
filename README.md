@@ -61,7 +61,7 @@ source code mode에서는 끌어넣기가 안되고, ctrl+E 눌러서 끌어넣�
 
 상대 경로 참조를 하면 이런 것도 가능!
 
-![image2.png](./imagefolder/image2.webp)
+![image2.png](./imagefolder/image2.png)
 
 ---
 
